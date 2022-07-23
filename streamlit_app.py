@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-st.title('Hello World1')
+st.title('Uber pickups in NYC')
 
-st  uber_pickups.py
+streamlit uber_pickups.py
+
