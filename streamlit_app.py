@@ -4,4 +4,4 @@ import numpy as np
 
 st.title('Hello World')
 
-streamlit run uber_pickups.py
+st run uber_pickups.py
